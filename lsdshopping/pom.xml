@@ -9,6 +9,13 @@
 	<url>http://maven.apache.org</url>
 	<dependencies>
 
+		<!-- Link BackEnd project -->
+		<dependency>
+			<groupId>net.lsd</groupId>
+			<artifactId>shoppingbend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
 		<!-- JAVA EE API -->
 		<dependency>
 			<groupId>javax</groupId>
